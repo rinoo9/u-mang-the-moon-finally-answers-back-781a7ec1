@@ -6,9 +6,9 @@
 
 Entry for the make.fun bounty "The Moon Finally Answers Back": one line of text that the Moon says back to everyone who has ever stared up at it.
 
-The entry line (161 characters):
+The entry line (81 characters):
 
-> "Oh, NOW you talk to me? I've been up here listening to every wish, howl, and 2 a.m. promise for four billion years — and not one of you ever asked how I'm doing."
+> "Your wish is number 8,000,000,001 in the queue. Estimated wait time: one eclipse."
 
 ## Run
 
