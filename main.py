@@ -6,7 +6,7 @@ Deterministic: no network, no randomness, no time dependence.
 
 import os
 
-ENTRY = "Your wish is number 8,000,000,001 in the queue. Estimated wait time: one eclipse."
+ENTRY = "You wished on a star, but stars are busy — so I showed up instead. You're welcome."
 
 MAX_LENGTH = 240
 
